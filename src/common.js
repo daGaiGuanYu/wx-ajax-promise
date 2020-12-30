@@ -1,6 +1,6 @@
 export default function (method, url, query, data, header){
   return new Promise((success, fail) => {
-    if(!url) throw Error('请求的 url 呢？')
+    if(!url) throw Error('请求的 url 在哪呢？')
     url += __getQueryString(query)
     
     wx.request({
