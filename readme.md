@@ -1,5 +1,5 @@
 # wx-ajax-promise
-封装微信小程序里的 ajax 成 Promise 形式
+封装微信小程序里的 ajax 成 Promise 形式！
 
 ## 用法
 ### 安装
